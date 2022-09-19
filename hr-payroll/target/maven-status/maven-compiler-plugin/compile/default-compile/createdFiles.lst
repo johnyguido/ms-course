@@ -1,0 +1,4 @@
+com\johny\hrpayroll\services\PaymentService.class
+com\johny\hrpayroll\resources\PaymentResource.class
+com\johny\hrpayroll\HrPayrollApplication.class
+com\johny\hrpayroll\entities\Payment.class

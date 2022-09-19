@@ -1,0 +1,4 @@
+com\johny\hrworker\entities\Worker.class
+com\johny\hrworker\resources\WorkerResource.class
+com\johny\hrworker\HrWorkerApplication.class
+com\johny\hrworker\repository\WorkerRepository.class
